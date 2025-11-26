@@ -10,4 +10,5 @@ data/
 .repo
 *.npy
 *.zip
+images/
 public_solutions/
