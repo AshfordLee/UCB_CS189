@@ -8,13 +8,13 @@
 #line(length: 100%)
 #text(size: 9pt, `shape: (2,)`)
 ]), name: "0")
-  node((-1, 0.5), block(stroke: 0.5pt, inset: 8pt, radius: 4pt, [
-#align(center, $b$)
+  node((-1, -0.5), block(stroke: 0.5pt, inset: 8pt, radius: 4pt, [
+#align(center, $a$)
 #line(length: 100%)
 #text(size: 9pt, `shape: (2,)`)
 ]), name: "1")
-  node((-1, -0.5), block(stroke: 0.5pt, inset: 8pt, radius: 4pt, [
-#align(center, $a$)
+  node((-1, 0.5), block(stroke: 0.5pt, inset: 8pt, radius: 4pt, [
+#align(center, $b$)
 #line(length: 100%)
 #text(size: 9pt, `shape: (2,)`)
 ]), name: "2")
