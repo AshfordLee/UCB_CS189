@@ -12,3 +12,7 @@ data/
 *.zip
 images/
 public_solutions/
+!chimpanzee_train.txt
+!dna_test.txt
+!dog_train.txt
+!human_train.txt
