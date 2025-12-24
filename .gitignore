@@ -16,3 +16,5 @@ public_solutions/
 !dna_test.txt
 !dog_train.txt
 !human_train.txt
+mcq_finetuned_model/
+trainer_output/
